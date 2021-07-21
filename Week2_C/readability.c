@@ -1,6 +1,6 @@
 //link to the problem description
 //https://cs50.harvard.edu/x/2021/psets/2/readability/
-//lint to the cs50 lib
+//link to the cs50 lib
 //https://cs50.readthedocs.io/libraries/cs50/c/
 #include <stdio.h>
 #include <string.h>
